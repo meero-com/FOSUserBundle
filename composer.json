@@ -68,5 +68,7 @@
     },
     "support": {
         "docs": "https://symfony.com/doc/master/bundles/FOSUserBundle/index.html"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
